@@ -162,6 +162,12 @@ p {
     .col-md-10 {
         margin-left: 20px;
     }
+    .projcts img {
+        margin-left: 0px;
+    }
+    .col-md-12 {
+        padding-left: 0;
+    }
 }
 
 
